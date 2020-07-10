@@ -12,7 +12,7 @@ def multiply(a, b):
 def divide (a, b):
   return a/b
 
-def remainder_premium(a, b):
+def remainder_new(a, b):
   return a%b
 
   
