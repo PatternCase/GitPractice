@@ -12,7 +12,7 @@ def multiply(a, b):
 def divide (a, b):
   return a/b
 
-def remainder(a, b):
+def remainder_Free(a, b):
   return a%b
 
   
