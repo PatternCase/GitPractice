@@ -15,5 +15,4 @@ def divide (a, b):
 def remainder_Free(a, b):
   return a%b
 
-def square(a):
-  return a*b
+  
